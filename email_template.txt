@@ -1,0 +1,13 @@
+To: medusa@cio.mx
+Subject: MEDUSA Status Report
+From: medusa@cio.mx
+
+Status report for MEDUSA on $DATE.
+
+Nodes that are disconnected/inactive via ETHERNET:
+$EN_DOWN
+
+Nodes that are disconnected/inactive via INFINIBAND:
+$IB_DOWN
+
+Temperature records are attached below.
