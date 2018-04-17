@@ -1,0 +1,15 @@
+# YAML input file for Kalimotxo
+
+mail: # specify emails and server
+    to: ulisesrojo@cio.mx, sma@cio.mx
+    from: ulisesrojo@cio.mx
+    servidor: amorfo.cio.mx
+
+sensor: # sensor parameters
+    temp_nor: 20
+    temp_cri: 15
+    temp_dis: 38
+    pin: 23
+    frec: 10
+
+log_file: temperature.log # path to output log
